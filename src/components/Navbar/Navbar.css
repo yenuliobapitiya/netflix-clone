@@ -38,4 +38,9 @@
     border-radius: 4px;
     width: 35px;
 }
-
+.navbar-profile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
