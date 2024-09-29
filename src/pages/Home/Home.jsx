@@ -11,7 +11,7 @@ function Home() {
       <div className="hero">
         <img src={hero_banner} alt='' className='banner-img' />
         <div className="hero_caption">
-          <img src={hero_title} alt='' />
+          <img src={hero_title} alt='' className='caption-img' />
         </div>
       </div>
     </div>
